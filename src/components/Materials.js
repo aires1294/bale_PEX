@@ -1,9 +1,9 @@
 import React from "react";
 import CardMaterial from "./CardMaterial";
 
-import bale from "../assets/images/bale.jpg";
-import atividade from "../assets/images/atividade-fisica.jpg";
-import saude from "../assets/images/saude.jpg";
+import bale from "../assets/images/bale.jpeg";
+import atividade from "../assets/images/atfisica.jpeg";
+import saude from "../assets/images/saude.png";
 
 function Materials() {
   const materials = [
